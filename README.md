@@ -6,7 +6,7 @@
 
 - 💞️ I want to collaborate with colleagues who are happy to share their knowledge and stories.
 
-- 📫 Want to contact me? Check out my Linkedin: <a href="https://www.linkedin.com/in/christopher-lundqvist-8741b2aa/">My Profile Linkedin
+- 📫 Want to have a chat? Check out my Linkedin: <a href="https://www.linkedin.com/in/christopher-lundqvist-8741b2aa/">My Profile Linkedin
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mojjan4&theme=onedark)
