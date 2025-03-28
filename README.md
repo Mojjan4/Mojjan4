@@ -2,8 +2,6 @@
 
 - 👀 I'm a driven developer who likes to try new things and is not afraid of challenges!
 
-- 🌱 Right now I am trying different projects and continue to develop in Android, iOS and Web.
-
 - 💞️ I want to collaborate with colleagues who are happy to share their knowledge and stories.
 
 - 📫 Want to have a chat? Check out my Linkedin: <a href="https://www.linkedin.com/in/christopher-lundqvist-8741b2aa/">My Profile Linkedin
