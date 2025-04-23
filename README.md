@@ -6,13 +6,7 @@
 
 - 📫 Want to have a chat? Check out my Linkedin: <a href="https://www.linkedin.com/in/christopher-lundqvist-8741b2aa/">My Profile Linkedin
   
-- https://christopher-lundqvist.netlify.app/
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mojjan4&theme=onedark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mojjan4&layout=compact&theme=onedark)
+- Website -> https://mojjan4.github.io/portfolio-website/
 
 
 <!---
